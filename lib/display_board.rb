@@ -7,4 +7,3 @@ def display_board
               |   |   \n"
   print board
 end
-display_board
