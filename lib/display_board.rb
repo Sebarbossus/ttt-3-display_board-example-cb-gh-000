@@ -6,4 +6,4 @@ def display_board
            "-----------\n",
            "   |   |   \n"]
   print board
-end        
+end
